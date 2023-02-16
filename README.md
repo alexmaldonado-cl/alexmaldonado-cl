@@ -50,7 +50,8 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 <h5> Cloud </h5>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+
 
 
 <h5> Data bases </h5>
