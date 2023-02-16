@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-I’m a backend-end developer based in Chile with 5 years of experience in the software industry. I have worked on projects with Laravel/PHP. I also have experience in other languagues like TypeScript, SQL, Python, NodeJs and Java.
+I’m a backend-end developer based in Chile with 5 years of experience in the software industry. I have worked on projects with Laravel/PHP. I also have experience in other languagues like TypeScript, Python, NodeJS and Java.
 
 Additionaly, I am using tools like GitHub, Notion, and Slack. 
 
-Always I am learning new things. Today, my main goal is to be an English speaker 🇬🇧.
+Always I am learning new things. Today, my main goal is to be an English speaker.
 
 <!-- 👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>. -->
 
