@@ -44,8 +44,8 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 
 <h5> Version control </h5>
 
-![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 <h5> Cloud </h5>
 
