@@ -42,7 +42,7 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 ![Laravel](https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white)
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
 <!-- ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp;
+<!-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp; -->
 
 <h5> Version control </h5>
 
