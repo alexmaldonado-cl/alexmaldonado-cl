@@ -57,8 +57,7 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
 
-
-<h5> Data bases </h5>
+<h5> Databases </h5>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff) -->
