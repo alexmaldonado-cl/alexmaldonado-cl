@@ -49,14 +49,21 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 
 <h5> Cloud </h5>
 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 <h5> Data bases </h5>
 
-![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff) -->
+
+<h5>Others</h5>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
 <!-- ## 🎯 &nbsp;&nbsp;Some technologies I use:
