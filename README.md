@@ -30,6 +30,7 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 
 <h5> Programming languages </h5>
 
+![PHP](https://img.shields.io/badge/PHP-2C2D72?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
@@ -49,6 +50,7 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 <h5> Cloud </h5>
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 <h5> Data bases </h5>
 
