@@ -26,8 +26,38 @@ Always I am learning new things. Today, my main goal is to be an English speaker
 
 🌱 &nbsp;&nbsp;Now I am learning more about Python 🐍.
 
+<h3>👨‍💻 Stack & Skills</h3>
 
-## 🎯 &nbsp;&nbsp;Some technologies I use:
+<h5> Programming languages </h5>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+
+<h5> Frameworks/Libraries </h5>
+
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+<h5> Version control </h5>
+
+![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
+
+<h5> Cloud </h5>
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<h5> Data bases </h5>
+
+![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff) -->
+
+
+<!-- ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -37,3 +67,4 @@ Always I am learning new things. Today, my main goal is to be an English speaker
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+ -->
